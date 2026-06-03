@@ -2,7 +2,7 @@
 -- Configuration
 -- ==============================================================
 -- Replace this link with the raw URL of this exact script so it can re-execute upon hopping
-local SCRIPT_URL = "https://raw.githubusercontent.com/YourUsername/YourRepo/main/farming_script.lua"
+local SCRIPT_URL = "https://raw.githubusercontent.com/NoskinNico/roblox_scripts/refs/heads/main/main.lua"
 
 -- Executor built-in functions
 local queue_on_tp = queue_on_teleport or (syn and syn.queue_on_teleport) or (fluxus and fluxus.queue_on_teleport)
